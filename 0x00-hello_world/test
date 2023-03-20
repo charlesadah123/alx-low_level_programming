@@ -1,0 +1,17 @@
+#include<stdio>
+
+/**
+	 * main - This is wonderful
+         * Return: This is a return statement
+	 */
+
+int main (void) {
+int a;
+int b:
+a = 0;
+do while (a < b)
+{
+    printf("%d\n", a);
+    a++;
+}
+}
