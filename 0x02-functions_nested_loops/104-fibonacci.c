@@ -3,7 +3,7 @@
 
 
 	/**
-	 * main - fibonacci <3
+	 * main - fibonnacci operation
 	 *
 	 *
 	 * Return:  (Success)
