@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_chess - Entry
+ * print_chessboard - Entry
  * @a: array
  * Return: Always 0 (Success)
  */
